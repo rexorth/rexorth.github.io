@@ -6,34 +6,34 @@ This guide will help you personalize this portfolio template for your own use.
 
 ### 1. **Personal Information** (Update in `index.html`)
 
-- [ ] **Name**: Replace "Varad Bhogayata" with your name throughout the file
-- [ ] **Title/Job Role**: Replace "Software Developer" with your title
-- [ ] **Profile Image**: Replace `/assets/img/passport-new.jpg` with your profile photo path
-- [ ] **Email**: Replace `vbhogayata@gmail.com` with your email
+- [x] **Name**: Replace "Varad Bhogayata" with your name throughout the file
+- [x] **Title/Job Role**: Replace "Software Developer" with your title
+- [x] **Profile Image**: Replace `/assets/img/passport-new.jpg` with your profile photo path
+- [x] **Email**: Replace `vbhogayata@gmail.com` with your email
 - [ ] **Phone**: Replace `+14805722456` with your phone number (optional)
-- [ ] **Resume**: Update the resume link to point to your resume PDF
+- [x] **Resume**: Update the resume link to point to your resume PDF
 
 ### 2. **Social Media Links** (Update in `index.html`)
 
-- [ ] **LinkedIn**: Update all LinkedIn profile URLs
-- [ ] **GitHub**: Update all GitHub profile URLs  
+- [x] **LinkedIn**: Update all LinkedIn profile URLs
+- [x] **GitHub**: Update all GitHub profile URLs  
 - [ ] **Twitter**: Update Twitter handle (if applicable)
-- [ ] Remove or add other social media links as needed
+- [x] Remove or add other social media links as needed
 
 ### 3. **SEO & Analytics** (Update in `index.html` - HEAD section)
 
-- [ ] **Google Tag Manager**: Remove or replace `GTM-PGZH8HT` with your GTM ID
-- [ ] **Google Analytics**: Remove or replace `UA-126939217-2` with your GA tracking ID
-- [ ] **Google Site Verification**: Remove or replace with your verification code
-- [ ] **Meta Tags**: Update Open Graph and Twitter meta tags with your info
-- [ ] **Page Title**: Update `<title>` tag
-- [ ] **OG Image**: Update the preview image URL for social sharing
+- [x] **Google Tag Manager**: Remove or replace `GTM-PGZH8HT` with your GTM ID
+- [x] **Google Analytics**: Remove or replace `UA-126939217-2` with your GA tracking ID
+- [x] **Google Site Verification**: Remove or replace with your verification code
+- [x] **Meta Tags**: Update Open Graph and Twitter meta tags with your info
+- [x] **Page Title**: Update `<title>` tag
+- [x] **OG Image**: Update the preview image URL for social sharing
 
 ### 4. **Content Sections** (Update in `index.html`)
 
 #### About Section (`#about`)
-- [ ] Update personal bio/description
-- [ ] Update skills list (Languages, Databases, Libraries, Frameworks, Tools)
+- [x] Update personal bio/description
+- [x] Update skills list (Languages, Databases, Libraries, Frameworks, Tools)
 - [ ] Update current focus/interests
 
 #### Experience Section (`#experience`)
@@ -47,8 +47,8 @@ This guide will help you personalize this portfolio template for your own use.
 - [ ] Add or remove project entries as needed
 
 #### Skills Section (`#skills`)
-- [ ] Update skill categories and items
-- [ ] Replace skill images/logos if needed
+- [x] Update skill categories and items
+- [ ] Replace skill images/logos if needed (some still using placeholders)
 
 #### Education Section (`#education`)
 - [ ] Update school/university names
@@ -57,29 +57,29 @@ This guide will help you personalize this portfolio template for your own use.
 - [ ] Add or remove education entries as needed
 
 #### Contact Section (`#contact`)
-- [ ] Verify all contact information is correct
-- [ ] Update all social media links
+- [x] Verify all contact information is correct
+- [x] Update all social media links
 
 ### 5. **Typing Animation** (Update in `index.html` - near end of file)
 
-- [ ] Update the typing animation strings array:
+- [x] Update the typing animation strings array:
   ```javascript
-  strings: ["Pythonist", "Developer", "Fast Learner"]
+  strings: ["Mechanical Engineer", "Prototyper", "Designer", "Fabricator"]
   ```
   Replace with your own descriptors.
 
 ### 6. **Images & Assets**
 
-- [ ] Replace profile picture at `/assets/img/passport-new.jpg`
+- [x] Replace profile picture at `/assets/img/passport-new.jpg`
 - [ ] Replace company logos in `/assets/img/` directory
 - [ ] Replace project images in `/assets/img/` directory
 - [ ] Update favicon files in `/assets/img/favicon/` directory
 
 ### 7. **Repository Settings** (for GitHub Pages)
 
-- [ ] Ensure your repository is named `<your-username>.github.io`
+- [x] Ensure your repository is named `<your-username>.github.io`
 - [ ] Enable GitHub Pages in repository settings
-- [ ] Update all GitHub URLs to match your username
+- [x] Update all GitHub URLs to match your username
 
 ### 8. **Optional Customizations**
 
@@ -157,11 +157,11 @@ The main color scheme uses teal (`#004d40`, `#00796b`). To change colors:
 ## 🚀 Deployment Checklist
 
 Before deploying:
-- [ ] All personal information updated
+- [x] All personal information updated
 - [ ] All links tested and working
 - [ ] All images uploaded and paths correct
-- [ ] Analytics IDs removed or updated
-- [ ] Resume link working
+- [x] Analytics IDs removed or updated
+- [x] Resume link working
 - [ ] Mobile view tested
 - [ ] README.md updated (optional)
 
